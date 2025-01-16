@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 include_directories(include)
 
-add_library(libfilezilla SHARED library.cpp)
+add_library(filezilla SHARED library.cpp)
